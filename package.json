@@ -14,9 +14,13 @@
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
+  "author": "yanxiqing",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^1.4.1"
+    "electron": "^1.4.1",
+    "electron-packager": "^8.6.0"
+  },
+  "dependencies": {
+    "electron-settings": "^3.1.1"
   }
 }
